@@ -1,5 +1,5 @@
-import { Tokenportal } from '@/components/tokenportal'
+import { PublicHome } from '@/components/tokenportal'
 
 export default function Home() {
-  return <Tokenportal page="Overview" />
+  return <PublicHome />
 }
